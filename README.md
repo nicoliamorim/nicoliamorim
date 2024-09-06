@@ -1,4 +1,4 @@
-<h2 align="left">Oii 👋! Eu sou a Nicoli Amorim!</h2>
+<h2 align="left">Oii 👋 Eu sou a Nicoli Amorim!</h2>
 
 [![social](https://img.shields.io/badge/connect--lightblue?style=for-the-badge&logo=linkedin&logoColor=lightblue)](https://www.linkedin.com/in/nicoliamorim/)
 [![social](https://img.shields.io/badge/follow--pink?style=for-the-badge&logo=instagram&logoColor=pink)](https://www.instagram.com/nicolimory/)
